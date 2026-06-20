@@ -104,6 +104,6 @@ NRC: 20177
 - Caisahuana Osores Becker Junior
 - [Apellidos, Nombres del Integrante 3]
 - [Apellidos, Nombres del Integrante 4]
-- [Apellidos, Nombres del Integrante 5]
+- Jáuregui Cerna Jean Franco
 
 **Fecha de entrega**: Semana 12 — Ciclo 202610
