@@ -41,12 +41,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 3: Elementos HTML comunes: títulos, párrafos, listas, imágenes y enlaces (12 minutos)
 
 - **Descripción**: Añade textos, viñetas, fotos y links para que tu página empiece a tomar forma y sea interactiva.
-- **Enlace**: [Ver lección en YouTube](https://youtu.be/[ENLACE_AQUI])
+- **Enlace**: [Ver lección en YouTube](https://www.youtube.com/watch?v=-ktASfju6-Y)
 - **Conclusiones clave**:
     - Usa `<h1>` a `<h6>` para títulos y `<p>` para párrafos.
     - Crea listas con `<ul>` y `<li>`.
     - Las imágenes `<img>` necesitan el atributo `src` y los enlaces `<a>` necesitan `href`.
-- **Práctica**: [Abrir editor online — Página de pasatiempos](https://codepen.io/pen/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Página sobre animal favorito](https://codepen.io/MRMpro13/pen/JoEWMOQ) *(no requiere registro)*
 
 ---
 
