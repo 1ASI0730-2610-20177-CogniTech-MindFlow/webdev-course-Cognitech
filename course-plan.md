@@ -46,7 +46,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
     - Usa `<h1>` a `<h6>` para títulos y `<p>` para párrafos.
     - Crea listas con `<ul>` y `<li>`.
     - Las imágenes `<img>` necesitan el atributo `src` y los enlaces `<a>` necesitan `href`.
-- **Práctica**: [Abrir editor online — Página sobre animal favorito](https://codepen.io/MRMpro13/pen/JoEWMOQ) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Página sobre animal favorito](https://codepen.io/pen/) *(no requiere registro)*
 
 ---
 
