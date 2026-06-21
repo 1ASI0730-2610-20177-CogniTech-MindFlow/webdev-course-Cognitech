@@ -50,10 +50,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ---
 
-### Lección 4: Introducción a CSS: colores, fuentes, selectores y bordes (13 minutos)
+### Lección 4: Introducción a CSS: colores, fuentes, selectores y bordes (6 minutos)
 
 - **Descripción**: Dale vida y estilo a tu HTML. Aprende a pintar fondos, cambiar tipos de letra y redondear imágenes.
-- **Enlace**: [Ver lección en YouTube](https://youtu.be/[ENLACE_AQUI])
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/XmT8Ihtvdwg)
 - **Conclusiones clave**:
     - CSS usa reglas compuestas por: Selector, Propiedad y Valor.
     - Usa `background-color` para fondos y `color` para el texto.
