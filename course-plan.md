@@ -17,7 +17,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 1: Introducción al desarrollo web: ¿qué es un sitio web? (8 minutos)
 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos para crear cualquier página en internet.
-- **Enlace**: [Ver lección en YouTube](https://youtu.be/[ENLACE_AQUI])
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/xV_3a2emS5Y)
 - **Conclusiones clave**:
     - Un sitio web es una colección de archivos que se muestran en tu navegador.
     - HTML es el esqueleto (contenido) y CSS es la pintura (estilo visual).
