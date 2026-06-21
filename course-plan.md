@@ -65,7 +65,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 5: Proyecto final: crear una página de perfil + consejos y errores comunes (15 minutos)
 
 - **Descripción**: Combina todo lo aprendido de HTML y CSS para construir una tarjeta de perfil personal completa. Repasa las mejores prácticas.
-- **Enlace**: [Ver lección en YouTube](https://youtu.be/[https://youtu.be/FyF8uWXm8Dg])
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/FyF8uWXm8Dg)
 - **Conclusiones clave**:
     - Recuerda siempre cerrar tus etiquetas HTML (ej. `</h1>`).
     - No olvides el punto y coma (`;`) al final de cada regla en CSS.
