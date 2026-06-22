@@ -29,7 +29,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ### Lección 2: HTML básico: etiquetas, elementos y atributos (12 minutos)
 
 - **Descripción**: Explora la estructura fundamental de una página web y cómo usar etiquetas de apertura y cierre para organizar tu contenido.
-- **Enlace**: [Ver lección en YouTube](https://youtu.be/[ENLACE_AQUI])
+- **Enlace**: [Ver lección en YouTube](https://youtu.be/6tWS9juEK0c)
 - **Conclusiones clave**:
     - Toda página tiene un esqueleto base invisible: `<html>`, `<head>`, y `<body>`.
     - Todo lo que ve el usuario va dentro de la etiqueta `<body>`.
