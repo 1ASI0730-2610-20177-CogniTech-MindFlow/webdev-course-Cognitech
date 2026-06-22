@@ -40,5 +40,5 @@ NRC: 20177 | Startup: **Cognitech**
 | Rocca Mariaca, Angel Mathias | Team Leader |
 | Cabrera Sotelo, Camila Celeste | Miembro |
 | Caisahuana Osores, Becker Junior | Miembro |
-|  | Miembro |
-|  | Miembro |
+| Díaz De la Cruz, Sebastián Gabriel | Miembro |
+| Jáuregui Cerna, Jean Franco | Miembro |
