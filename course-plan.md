@@ -82,8 +82,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección | Tema                           | Editor online                                               |
 |---------|--------------------------------|-------------------------------------------------------------|
-| 1       | ¿Qué es un sitio web?          | [CodePen](https://codepen.io/pen/)                          |
-| 2       | HTML básico y estructura       | [CodePen](https://codepen.io/pen/)                          |
+| 1       | ¿Qué es un sitio web?          | [CodePen](https://codepen.io/whcamm/pen/YPNZLmp)                          |
+| 2       | HTML básico y estructura       | [CodePen](https://codepen.io/tipaso07/pen/yygMdRM)                          |
 | 3       | Títulos, imágenes y enlaces    | [CodePen](https://codepen.io/pen/)                          |
 | 4       | Estilos, colores y CSS         | [CodePen](https://codepen.io/pen/)                          |
 | 5       | Proyecto Final: Perfil Personal| [CodePen](https://codepen.io/pen/)                          |
