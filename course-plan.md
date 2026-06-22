@@ -22,7 +22,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
     - Un sitio web es una colección de archivos que se muestran en tu navegador.
     - HTML es el esqueleto (contenido) y CSS es la pintura (estilo visual).
     - No necesitas herramientas complicadas para empezar a programar.
-- **Práctica**: [Abrir editor online — Tu primera línea de código](https://codepen.io/pen/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Tu primera línea de código](https://codepen.io/whcamm/pen/YPNZLmp) *(no requiere registro)*
 
 ---
 
@@ -34,7 +34,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
     - Toda página tiene un esqueleto base invisible: `<html>`, `<head>`, y `<body>`.
     - Todo lo que ve el usuario va dentro de la etiqueta `<body>`.
     - Los atributos dan información extra a las etiquetas, como los enlaces o rutas de imágenes.
-- **Práctica**: [Abrir editor online — Esqueleto HTML](https://codepen.io/pen/) *(no requiere registro)*
+- **Práctica**: [Abrir editor online — Esqueleto HTML](https://codepen.io/tipaso07/pen/yygMdRM) *(no requiere registro)*
 
 ---
 
